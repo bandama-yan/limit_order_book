@@ -1,7 +1,7 @@
 
 /* 
 
-                        FILE FOR CREATING CLASS AND UTILS FOR THE PROJECT
+                        FILE FOR ORDERBOOK FUNCTIONS AND ATTRIBUTES
 
 */
 
